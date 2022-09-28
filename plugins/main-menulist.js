@@ -281,7 +281,7 @@ text: tek,
 footer: '📮 *Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner',
 mentions: await conn.parseMention(tek),
 title: `${htki} *LIST MENU* ${htka}`,
-buttonText: `CLICK HERE ⎙`, 
+buttonText: `KLIK DISINI`, 
 sections
 }
 if (teks == '404') {
@@ -475,12 +475,12 @@ ptt: false, seconds: 0,contextInfo: {
     description: 'www.instagram.com/hyuura-official',
     title: "Now Playing...",
     body: wm,
-    thumbnail: await (await fetch('https://telegra.ph/file/c72133b197a68d3ea514d.jpg')).buffer(),
+    thumbnail: await (await fetch('https://telegra.ph/file/2d9a745fd579043994593.jpg')).buffer(),
     sourceUrl: 'www.instagram.com/hyuura-official'
  	  /*   sourceUrl: sig,
            title: '◄⟬ ●━━━ ⧏ ⧎ ⧐ ━━━● ⟭►',  
             body: 'Now Playing...', 
-           thumbnail: await (await fetch('https://telegra.ph/file/c72133b197a68d3ea514d.jpg')).buffer()
+           thumbnail: await (await fetch('https://telegra.ph/file/2d9a745fd579043994593.jpg')).buffer()
 }
      }
     })
@@ -516,12 +516,12 @@ ptt: false, seconds: 0,contextInfo: {
     description: sgc,
     title: "Kᴛɪᴋ .sᴏᴜɴᴅᴍᴇɴᴜ ᴜɴᴛᴋ ʏɢ ʟᴀɪɴ",
     body: wm,
-    thumbnail: await (await fetch('https://telegra.ph/file/c72133b197a68d3ea514d.jpg')).buffer(),
+    thumbnail: await (await fetch('https://telegra.ph/file/2d9a745fd579043994593.jpg')).buffer(),
     sourceUrl: sgc
  	  /*   sourceUrl: sig,
            title: '◄⟬ ●━━━ ⧏ ⧎ ⧐ ━━━● ⟭►',  
             body: 'Now Playing...', 
-           thumbnail: await (await fetch('https://telegra.ph/file/c72133b197a68d3ea514d.jpg')).buffer()*/
+           thumbnail: await (await fetch('https://telegra.ph/file/2d9a745fd579043994593.jpg')).buffer()*/
 }
      }
     })
