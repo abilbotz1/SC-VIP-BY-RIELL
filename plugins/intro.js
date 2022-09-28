@@ -41,7 +41,7 @@ conn.sendButtonDoc(m.chat, krtu, 'Script : https://youtube.com/channel/UCjoPsysj
     mediaUrl: "https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg",
     mediaType: "VIDEO",
     description: "https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg", 
-    title: 'Al? Offc',
+    title: 'Khurushi Md',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
